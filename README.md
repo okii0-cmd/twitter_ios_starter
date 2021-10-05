@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - Okii's Twitter App
 
 Okii's Twitter is a basic twitter app to read your tweets.
 
